@@ -1,2 +1,4 @@
-# Simple-LinearRegression-From-Scratch
-In this repo I implemented the simple linear regression algorithm from scratch. 
+# Simple Linear Regression From Scratch
+
+In this repository, I implemented the Simple Linear Regression algorithm from scratch using only NumPy and pandas.
+
