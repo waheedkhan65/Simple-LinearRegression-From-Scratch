@@ -1,7 +1,7 @@
 city,cgpa,iq,placement
 New York,6.8,123.0,6
 Los Angeles,5.9,106.0,5.9
-Chicago,5.965217391304349,121.0,6.1
+Chicago,5.9,121.0,6.1
 New York,7.4,132.0,7.2
 Los Angeles,5.8,142.0,6.2
 Chicago,7.1,48.0,6.1
@@ -13,7 +13,7 @@ Los Angeles,6.0,45.0,5.3
 Chicago,6.9,138.0,6.9
 New York,5.4,139.0,5.9
 Los Angeles,6.4,116.0,6
-Chicago,5.965217391304349,103.0,5.9
+Chicago,5.3,103.0,5.9
 New York,5.1,176.0,6.1
 Los Angeles,5.2,224.0,6.6
 Chicago,3.3,183.0,4.9
@@ -22,13 +22,13 @@ Los Angeles,5.2,132.0,5.7
 Chicago,6.6,120.0,6.5
 New York,7.1,151.0,7.2
 Los Angeles,4.9,120.0,5.3
-Chicago,5.965217391304349,87.0,5.7
+Chicago,5.4,87.0,5.7
 New York,4.7,121.0,5.2
 Los Angeles,5.0,91.0,5.1
 Chicago,7.0,199.0,7
 New York,6.0,124.0,6.1
 Los Angeles,5.2,90.0,5.2
-Chicago,5.965217391304349,1.0,4.8
+Chicago,5.2,1.0,4.8
 New York,7.6,128.0,7.3
 Los Angeles,3.9,109.0,4.5
 Chicago,7.0,139.0,7.0
@@ -42,7 +42,7 @@ New York,4.6,146.0,9
 Los Angeles,4.9,134.0,5.5
 Chicago,5.4,114.0,5
 New York,7.6,89.0,6.9
-Los Angeles,5.965217391304349,141.0,6.3
+Los Angeles,5.1,141.0,6.3
 Chicago,7.5,61.0,6.5
 New York,6.0,66.0,5.5
 Los Angeles,5.3,114.0,5
@@ -51,7 +51,7 @@ New York,6.6,138.0,6.3
 Los Angeles,5.4,135.0,5.1
 Chicago,3.5,233.0,5
 New York,4.8,141.0,5.214
-Los Angeles,5.965217391304349,1.0,4.8
+Los Angeles,5.7,1.0,4.8
 Chicago,8.3,168.0,8.423
 New York,6.4,141.0,6.123
 Los Angeles,7.8,114.0,7.3
@@ -59,7 +59,7 @@ Chicago,6.1,65.0,5.6
 New York,6.5,130.0,6.432
 Los Angeles,8.0,79.0,7.1
 Chicago,4.8,112.0,5.2
-New York,5.965217391304349,1.0,4
+New York,5.4,1.0,4
 Los Angeles,7.3,137.0,7.2
 Chicago,6.0,102.0,5.9
 New York,6.3,128.0,6.4
@@ -78,7 +78,7 @@ New York,4.8,169.0,5.8
 Los Angeles,4.9,155.0,5.7
 Chicago,7.3,50.0,6.3
 New York,6.1,81.0,5.8
-Los Angeles,5.965217391304349,1.0,4.8
+Los Angeles,5.9,1.0,4.8
 Chicago,4.9,196.0,6.1
 New York,5.4,107.0,5.6
 Los Angeles,6.5,37.0,5.6
